@@ -57,7 +57,7 @@ The comparison between the two data analysis from boxplot c39 and c52, gives the
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
-The data point collected is 0.00000003405 showing it is quite small  the difference reflects that between the two groups where the data is collected c39 and c52 there is a 95% difference when comparing the two groups, as they are both statistically different.
+The data point collected is 0.00000003405 showing it is quite small and the difference reflects that between the two groups where the data is collected c39 and c52 there is a 95% difference when comparing the two groups, as they are both statistically different.
   
 # Discussion and Conclusion
 
