@@ -34,7 +34,14 @@ veggy <- cabbages
 ### Graphical Descriptive Results
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+### Plot boxplots
 
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+  
+The boxplot shows VitC over Cult, and the data within is reflects  the data collected.c52 in higher when comparison to c39. The median for c52 is roughly 65, where the median for c39 is about 52.   
+  
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
